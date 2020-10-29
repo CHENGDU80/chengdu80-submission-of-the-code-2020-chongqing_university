@@ -1,0 +1,506 @@
+Company Name	Ticker	Primary Industry
+3M Company	MMM	Industrial Conglomerates
+A. O. Smith Corporation	AOS	Building Products
+Abbott Laboratories	ABT	Health Care Equipment
+AbbVie Inc.	ABBV	Biotechnology
+Abiomed, Inc.	ABMD	Health Care Equipment
+Accenture plc	ACN	IT Consulting and Other Services
+Activision Blizzard, Inc.	ATVI	Interactive Home Entertainment
+Adobe Inc.	ADBE	Application Software
+Advance Auto Parts, Inc.	AAP	Automotive Retail
+Advanced Micro Devices, Inc.	AMD	Semiconductors
+Aflac Incorporated	AFL	Life and Health Insurance
+Agilent Technologies, Inc.	A	Life Sciences Tools and Services
+Air Products and Chemicals, Inc.	APD	Industrial Gases
+Akamai Technologies, Inc.	AKAM	Internet Services and Infrastructure
+Alaska Air Group, Inc.	ALK	Airlines
+Albemarle Corporation	ALB	Specialty Chemicals
+Alexandria Real Estate Equities, Inc.	ARE	Office REITs
+Alexion Pharmaceuticals, Inc.	ALXN	Biotechnology
+Align Technology, Inc.	ALGN	Health Care Supplies
+Allegion plc	ALLE	Building Products
+Alliant Energy Corporation	LNT	Electric Utilities
+Alphabet Inc.	GOOG	Interactive Media and Services
+Alphabet Inc.	GOOG.L	Interactive Media and Services
+Altria Group, Inc.	MO	Tobacco
+Amazon.com, Inc.	AMZN	Internet and Direct Marketing Retail
+Amcor plc	AMCR	Paper Packaging
+Ameren Corporation	AEE	Multi-Utilities
+American Airlines Group Inc.	AAL	Airlines
+American Electric Power Company, Inc.	AEP	Electric Utilities
+American Express Company	AXP	Consumer Finance
+American International Group, Inc.	AIG	Multi-line Insurance
+American Tower Corporation (REIT)	AMT	Specialized REITs
+American Water Works Company, Inc.	AWK	Water Utilities
+Ameriprise Financial, Inc.	AMP	Asset Management and Custody Banks
+AmerisourceBergen Corporation	ABC	Health Care Distributors
+AMETEK, Inc.	AME	Electrical Components and Equipment
+Amgen Inc.	AMGN	Biotechnology
+Amphenol Corporation	APH	Electronic Components
+Analog Devices, Inc.	ADI	Semiconductors
+ANSYS, Inc.	ANSS	Application Software
+Anthem, Inc.	ANTM	Managed Health Care
+Aon Plc	AON	Insurance Brokers
+Apache Corporation	APA	Oil and Gas Exploration and Production
+Apartment Investment and Management Company	AIV	Residential REITs
+Apple Inc.	AAPL	Technology Hardware, Storage and Peripherals
+Applied Materials, Inc.	AMAT	Semiconductor Equipment
+Aptiv PLC	APTV	Auto Parts and Equipment
+Archer-Daniels-Midland Company	ADM	Agricultural Products
+Arista Networks, Inc.	ANET	Communications Equipment
+Arthur J. Gallagher & Co.	AJG	Insurance Brokers
+Assurant, Inc.	AIZ	Multi-line Insurance
+AT&T Inc.	T	Integrated Telecommunication Services
+Atmos Energy Corporation	ATO	Gas Utilities
+Autodesk, Inc.	ADSK	Application Software
+Automatic Data Processing, Inc.	ADP	Data Processing and Outsourced Services
+AutoZone, Inc.	AZO	Automotive Retail
+AvalonBay Communities, Inc.	AVB	Residential REITs
+Avery Dennison Corporation	AVY	Paper Packaging
+Baker Hughes Company	BKR	Oil and Gas Equipment and Services
+Ball Corporation	BLL	Metal and Glass Containers
+Bank of America Corporation	BAC	Diversified Banks
+Baxter International Inc.	BAX	Health Care Equipment
+Becton, Dickinson and Company	BDX	Health Care Equipment
+Berkshire Hathaway Inc.	BRK.B	Multi-Sector Holdings
+Best Buy Co., Inc.	BBY	Computer and Electronics Retail
+Biogen Inc.	BIIB	Biotechnology
+Bio-Rad Laboratories, Inc.	BIO	Life Sciences Tools and Services
+BlackRock, Inc.	BLK	Asset Management and Custody Banks
+Booking Holdings Inc.	BKNG	Internet and Direct Marketing Retail
+BorgWarner Inc.	BWA	Auto Parts and Equipment
+Boston Properties, Inc.	BXP	Office REITs
+Boston Scientific Corporation	BSX	Health Care Equipment
+Bristol-Myers Squibb Company	BMY	Pharmaceuticals
+Broadcom Inc.	AVGO	Semiconductors
+Broadridge Financial Solutions, Inc.	BR	Data Processing and Outsourced Services
+Brown-Forman Corporation	BF.B	Distillers and Vintners
+C.H. Robinson Worldwide, Inc.	CHRW	Air Freight and Logistics
+Cabot Oil & Gas Corporation	COG	Oil and Gas Exploration and Production
+Cadence Design Systems, Inc.	CDNS	Application Software
+Campbell Soup Company	CPB	Packaged Foods and Meats
+Capital One Financial Corporation	COF	Consumer Finance
+Cardinal Health, Inc.	CAH	Health Care Distributors
+CarMax, Inc.	KMX	Automotive Retail
+Carnival Corporation & Plc	CCL	Hotels, Resorts and Cruise Lines
+Carrier Global Corporation	CARR	Building Products
+Caterpillar Inc.	CAT	Construction Machinery and Heavy Trucks
+Cboe Global Markets, Inc.	BATS:CBOE	Financial Exchanges and Data
+CBRE Group, Inc.	CBRE	Real Estate Services
+CDW Corporation	CDW	Technology Distributors
+Celanese Corporation	CE	Specialty Chemicals
+Centene Corporation	CNC	Managed Health Care
+CenterPoint Energy, Inc.	CNP	Multi-Utilities
+CenturyLink, Inc.	CTL	Alternative Carriers
+Cerner Corporation	CERN	Health Care Technology
+CF Industries Holdings, Inc.	CF	Fertilizers and Agricultural Chemicals
+Charter Communications, Inc.	CHTR	Cable and Satellite
+Chevron Corporation	CVX	Integrated Oil and Gas
+Chipotle Mexican Grill, Inc.	CMG	Restaurants
+Chubb Limited	CB	Property and Casualty Insurance
+Church & Dwight Co., Inc.	CHD	Household Products
+Cigna Corporation	CI	Health Care Services
+Cincinnati Financial Corporation	CINF	Property and Casualty Insurance
+Cintas Corporation	CTAS	Diversified Support Services
+Cisco Systems, Inc.	CSCO	Communications Equipment
+Citigroup Inc.	C	Diversified Banks
+Citizens Financial Group, Inc.	CFG	Regional Banks
+Citrix Systems, Inc.	CTXS	Application Software
+CME Group Inc.	CME	Financial Exchanges and Data
+CMS Energy Corporation	CMS	Multi-Utilities
+Cognizant Technology Solutions Corporation	CTSH	IT Consulting and Other Services
+Colgate-Palmolive Company	CL	Household Products
+Comcast Corporation	CMCS.A	Cable and Satellite
+Comerica Incorporated	CMA	Regional Banks
+Conagra Brands, Inc.	CAG	Packaged Foods and Meats
+Concho Resources Inc.	CXO	Oil and Gas Exploration and Production
+ConocoPhillips	COP	Oil and Gas Exploration and Production
+Consolidated Edison, Inc.	ED	Multi-Utilities
+Constellation Brands, Inc.	STZ	Distillers and Vintners
+Copart, Inc.	CPRT	Diversified Support Services
+Corning Incorporated	GLW	Electronic Components
+Corteva, Inc.	CTVA	Fertilizers and Agricultural Chemicals
+Costco Wholesale Corporation	COST	Hypermarkets and Super Centers
+Coty Inc.	COTY	Personal Products
+Crown Castle International Corp. (REIT)	CCI	Specialized REITs
+CSX Corporation	CSX	Railroads
+Cummins Inc.	CMI	Construction Machinery and Heavy Trucks
+CVS Health Corporation	CVS	Health Care Services
+D.R. Horton, Inc.	DHI	Homebuilding
+Danaher Corporation	DHR	Health Care Equipment
+Darden Restaurants, Inc.	DRI	Restaurants
+DaVita Inc.	DVA	Health Care Services
+Deere & Company	DE	Agricultural and Farm Machinery
+Delta Air Lines, Inc.	DAL	Airlines
+DENTSPLY SIRONA Inc.	XRAY	Health Care Supplies
+Devon Energy Corporation	DVN	Oil and Gas Exploration and Production
+DexCom, Inc.	DXCM	Health Care Equipment
+Diamondback Energy, Inc.	FANG	Oil and Gas Exploration and Production
+Digital Realty Trust, Inc.	DLR	Specialized REITs
+Discover Financial Services	DFS	Consumer Finance
+Discovery, Inc.	DISC.A	Broadcasting
+Discovery, Inc.	DISC.K	Broadcasting
+DISH Network Corporation	DISH	Cable and Satellite
+Dollar General Corporation	DG	General Merchandise Stores
+Dollar Tree, Inc.	DLTR	General Merchandise Stores
+Dominion Energy, Inc.	D	Multi-Utilities
+Domino's Pizza, Inc.	DPZ	Restaurants
+Dover Corporation	DOV	Industrial Machinery
+Dow Inc.	DOW	Commodity Chemicals
+DTE Energy Company	DTE	Multi-Utilities
+Duke Energy Corporation	DUK	Electric Utilities
+Duke Realty Corporation	DRE	Industrial REITs
+DuPont de Nemours, Inc.	DD	Specialty Chemicals
+DXC Technology Company	DXC	IT Consulting and Other Services
+E*TRADE Financial Corporation	ETFC	Investment Banking and Brokerage
+Eastman Chemical Company	EMN	Diversified Chemicals
+Eaton Corporation plc	ETN	Electrical Components and Equipment
+eBay Inc.	EBAY	Internet and Direct Marketing Retail
+Ecolab Inc.	ECL	Specialty Chemicals
+Edison International	EIX	Electric Utilities
+Edwards Lifesciences Corporation	EW	Health Care Equipment
+Electronic Arts Inc.	EA	Interactive Home Entertainment
+Eli Lilly and Company	LLY	Pharmaceuticals
+Emerson Electric Co.	EMR	Electrical Components and Equipment
+Entergy Corporation	ETR	Electric Utilities
+EOG Resources, Inc.	EOG	Oil and Gas Exploration and Production
+Equifax Inc.	EFX	Research and Consulting Services
+Equinix, Inc. (REIT)	EQIX	Specialized REITs
+Equity Residential	EQR	Residential REITs
+Essex Property Trust, Inc.	ESS	Residential REITs
+Everest Re Group, Ltd.	RE	Reinsurance
+Evergy, Inc.	EVRG	Electric Utilities
+Eversource Energy	ES	Electric Utilities
+Exelon Corporation	EXC	Electric Utilities
+Expedia Group, Inc.	EXPE	Internet and Direct Marketing Retail
+Expeditors International of Washington, Inc.	EXPD	Air Freight and Logistics
+Extra Space Storage Inc.	EXR	Specialized REITs
+Exxon Mobil Corporation	XOM	Integrated Oil and Gas
+F5 Networks, Inc.	FFIV	Communications Equipment
+Facebook, Inc.	FB	Interactive Media and Services
+Fastenal Company	FAST	Trading Companies and Distributors
+Federal Realty Investment Trust	FRT	Retail REITs
+FedEx Corporation	FDX	Air Freight and Logistics
+Fidelity National Information Services, Inc.	FIS	Data Processing and Outsourced Services
+Fifth Third Bancorp	FITB	Regional Banks
+First Republic Bank	FRC	Regional Banks
+FirstEnergy Corp.	FE	Electric Utilities
+Fiserv, Inc.	FISV	Data Processing and Outsourced Services
+FLEETCOR Technologies, Inc.	FLT	Data Processing and Outsourced Services
+FLIR Systems, Inc.	FLIR	Electronic Equipment and Instruments
+Flowserve Corporation	FLS	Industrial Machinery
+FMC Corporation	FMC	Fertilizers and Agricultural Chemicals
+Ford Motor Company	F	Automobile Manufacturers
+Fortinet, Inc.	FTNT	Systems Software
+Fortive Corporation	FTV	Industrial Machinery
+Fortune Brands Home & Security, Inc.	FBHS	Building Products
+Fox Corporation	FOX	Broadcasting
+Fox Corporation	FOXA	Broadcasting
+Franklin Resources, Inc.	BEN	Asset Management and Custody Banks
+Freeport-McMoRan Inc.	FCX	Copper
+Garmin Ltd.	GRMN	Consumer Electronics
+Gartner, Inc.	IT	IT Consulting and Other Services
+General Dynamics Corporation	GD	Aerospace and Defense
+General Electric Company	GE	Industrial Conglomerates
+General Mills, Inc.	GIS	Packaged Foods and Meats
+General Motors Company	GM	Automobile Manufacturers
+Genuine Parts Company	GPC	Distributors
+Gilead Sciences, Inc.	GILD	Biotechnology
+Global Payments Inc.	GPN	Data Processing and Outsourced Services
+Globe Life Inc.	GL	Life and Health Insurance
+H&R Block, Inc.	HRB	Specialized Consumer Services
+Halliburton Company	HAL	Oil and Gas Equipment and Services
+Hanesbrands Inc.	HBI	Apparel, Accessories and Luxury Goods
+Hasbro, Inc.	HAS	Leisure Products
+HCA Healthcare, Inc.	HCA	Health Care Facilities
+Healthpeak Properties, Inc.	PEAK	Health Care REITs
+Henry Schein, Inc.	HSIC	Health Care Distributors
+Hess Corporation	HES	Oil and Gas Exploration and Production
+Hewlett Packard Enterprise Company	HPE	Technology Hardware, Storage and Peripherals
+Hilton Worldwide Holdings Inc.	HLT	Hotels, Resorts and Cruise Lines
+HollyFrontier Corporation	HFC	Oil and Gas Refining and Marketing
+Hologic, Inc.	HOLX	Health Care Equipment
+Honeywell International Inc.	HON	Industrial Conglomerates
+Hormel Foods Corporation	HRL	Packaged Foods and Meats
+Host Hotels & Resorts, Inc.	HST	Hotel and Resort REITs
+Howmet Aerospace Inc.	HWM	Aerospace and Defense
+HP Inc.	HPQ	Technology Hardware, Storage and Peripherals
+Humana Inc.	HUM	Managed Health Care
+Huntington Bancshares Incorporated	HBAN	Regional Banks
+Huntington Ingalls Industries, Inc.	HII	Aerospace and Defense
+IDEX Corporation	IEX	Industrial Machinery
+IDEXX Laboratories, Inc.	IDXX	Health Care Equipment
+IHS Markit Ltd.	INFO	Research and Consulting Services
+Illinois Tool Works Inc.	ITW	Industrial Machinery
+Illumina, Inc.	ILMN	Life Sciences Tools and Services
+Incyte Corporation	INCY	Biotechnology
+Ingersoll Rand Inc.	IR	Industrial Machinery
+Intel Corporation	INTC	Semiconductors
+Intercontinental Exchange, Inc.	ICE	Financial Exchanges and Data
+International Business Machines Corporation	IBM	IT Consulting and Other Services
+International Flavors & Fragrances Inc.	IFF	Specialty Chemicals
+International Paper Company	IP	Paper Packaging
+Intuit Inc.	INTU	Application Software
+Intuitive Surgical, Inc.	ISRG	Health Care Equipment
+Invesco Ltd.	IVZ	Asset Management and Custody Banks
+IPG Photonics Corporation	IPGP	Electronic Manufacturing Services
+IQVIA Holdings Inc.	IQV	Life Sciences Tools and Services
+Iron Mountain Incorporated	IRM	Specialized REITs
+J.B. Hunt Transport Services, Inc.	JBHT	Trucking
+Jack Henry & Associates, Inc.	JKHY	Data Processing and Outsourced Services
+Jacobs Engineering Group Inc.	J	Construction and Engineering
+Johnson & Johnson	JNJ	Pharmaceuticals
+Johnson Controls International plc	JCI	Building Products
+JPMorgan Chase & Co.	JPM	Diversified Banks
+Juniper Networks, Inc.	JNPR	Communications Equipment
+Kansas City Southern	KSU	Railroads
+Kellogg Company	K	Packaged Foods and Meats
+KeyCorp	KEY	Regional Banks
+Keysight Technologies, Inc.	KEYS	Electronic Equipment and Instruments
+Kimberly-Clark Corporation	KMB	Household Products
+Kimco Realty Corporation	KIM	Retail REITs
+Kinder Morgan, Inc.	KMI	Oil and Gas Storage and Transportation
+KLA Corporation	KLAC	Semiconductor Equipment
+Kohl's Corporation	KSS	Department Stores
+L Brands, Inc.	LB	Apparel Retail
+L3Harris Technologies, Inc.	LHX	Aerospace and Defense
+Laboratory Corporation of America Holdings	LH	Health Care Services
+Lam Research Corporation	LRCX	Semiconductor Equipment
+Lamb Weston Holdings, Inc.	LW	Packaged Foods and Meats
+Las Vegas Sands Corp.	LVS	Casinos and Gaming
+Leggett & Platt, Incorporated	LEG	Home Furnishings
+Leidos Holdings, Inc.	LDOS	IT Consulting and Other Services
+Lennar Corporation	LEN	Homebuilding
+Lincoln National Corporation	LNC	Life and Health Insurance
+Linde plc	LIN	Industrial Gases
+Live Nation Entertainment, Inc.	LYV	Movies and Entertainment
+LKQ Corporation	LKQ	Distributors
+Lockheed Martin Corporation	LMT	Aerospace and Defense
+Loews Corporation	L	Property and Casualty Insurance
+Lowe's Companies, Inc.	LOW	Home Improvement Retail
+LyondellBasell Industries N.V.	LYB	Commodity Chemicals
+M&T Bank Corporation	MTB	Regional Banks
+Marathon Oil Corporation	MRO	Oil and Gas Exploration and Production
+Marathon Petroleum Corporation	MPC	Oil and Gas Refining and Marketing
+MarketAxess Holdings Inc.	MKTX	Financial Exchanges and Data
+Marriott International, Inc.	MAR	Hotels, Resorts and Cruise Lines
+Marsh & McLennan Companies, Inc.	MMC	Insurance Brokers
+Martin Marietta Materials, Inc.	MLM	Construction Materials
+Masco Corporation	MAS	Building Products
+Mastercard Incorporated	MA	Data Processing and Outsourced Services
+Maxim Integrated Products, Inc.	MXIM	Semiconductors
+McCormick & Company, Incorporated	MKC	Packaged Foods and Meats
+McDonald's Corporation	MCD	Restaurants
+McKesson Corporation	MCK	Health Care Distributors
+Medtronic plc	MDT	Health Care Equipment
+Merck & Co., Inc.	MRK	Pharmaceuticals
+MetLife, Inc.	MET	Life and Health Insurance
+Mettler-Toledo International Inc.	MTD	Life Sciences Tools and Services
+MGM Resorts International	MGM	Casinos and Gaming
+Microchip Technology Incorporated	MCHP	Semiconductors
+Micron Technology, Inc.	MU	Semiconductors
+Microsoft Corporation	MSFT	Systems Software
+Mid-America Apartment Communities, Inc.	MAA	Residential REITs
+Mohawk Industries, Inc.	MHK	Home Furnishings
+Molson Coors Beverage Company	TAP	Brewers
+Mondelez International, Inc.	MDLZ	Packaged Foods and Meats
+Monster Beverage Corporation	MNST	Soft Drinks
+Moody's Corporation	MCO	Financial Exchanges and Data
+Morgan Stanley	MS	Investment Banking and Brokerage
+Motorola Solutions, Inc.	MSI	Communications Equipment
+MSCI Inc.	MSCI	Financial Exchanges and Data
+Mylan, Inc.	MYL	Pharmaceuticals
+Nasdaq, Inc.	NDAQ	Financial Exchanges and Data
+National Oilwell Varco, Inc.	NOV	Oil and Gas Equipment and Services
+NetApp, Inc.	NTAP	Technology Hardware, Storage and Peripherals
+Netflix, Inc.	NFLX	Movies and Entertainment
+Newell Brands Inc.	NWL	Housewares and Specialties
+Newmont Corporation	NEM	Gold
+News Corporation	NWSA	Publishing
+News Corporation	NWS	Publishing
+NextEra Energy, Inc.	NEE	Electric Utilities
+Nielsen Holdings plc	NLSN	Research and Consulting Services
+NIKE, Inc.	NKE	Footwear
+NiSource Inc.	NI	Multi-Utilities
+Noble Energy, Inc.	NBL	Oil and Gas Exploration and Production
+Norfolk Southern Corporation	NSC	Railroads
+Northern Trust Corporation	NTRS	Asset Management and Custody Banks
+Northrop Grumman Corporation	NOC	Aerospace and Defense
+NortonLifeLock Inc.	NLOK	Systems Software
+Norwegian Cruise Line Holdings Ltd.	NCLH	Hotels, Resorts and Cruise Lines
+NRG Energy, Inc.	NRG	Electric Utilities
+Nucor Corporation	NUE	Steel
+NVIDIA Corporation	NVDA	Semiconductors
+NVR, Inc.	NVR	Homebuilding
+Occidental Petroleum Corporation	OXY	Integrated Oil and Gas
+Old Dominion Freight Line, Inc.	ODFL	Trucking
+Omnicom Group Inc.	OMC	Advertising
+ONEOK, Inc.	OKE	Oil and Gas Storage and Transportation
+Oracle Corporation	ORCL	Systems Software
+O'Reilly Automotive, Inc.	ORLY	Automotive Retail
+Otis Worldwide Corporation	OTIS	Industrial Machinery
+PACCAR Inc	PCAR	Construction Machinery and Heavy Trucks
+Packaging Corporation of America	PKG	Paper Packaging
+Parker-Hannifin Corporation	PH	Industrial Machinery
+Paychex, Inc.	PAYX	Data Processing and Outsourced Services
+Paycom Software, Inc.	PAYC	Application Software
+PayPal Holdings, Inc.	PYPL	Data Processing and Outsourced Services
+Pentair plc	PNR	Industrial Machinery
+People's United Financial, Inc.	PBCT	Regional Banks
+PepsiCo, Inc.	PEP	Soft Drinks
+PerkinElmer, Inc.	PKI	Life Sciences Tools and Services
+Perrigo Company plc	PRGO	Pharmaceuticals
+Pfizer Inc.	PFE	Pharmaceuticals
+Philip Morris International Inc.	PM	Tobacco
+Phillips 66	PSX	Oil and Gas Refining and Marketing
+Pinnacle West Capital Corporation	PNW	Electric Utilities
+Pioneer Natural Resources Company	PXD	Oil and Gas Exploration and Production
+PPG Industries, Inc.	PPG	Specialty Chemicals
+PPL Corporation	PPL	Electric Utilities
+Principal Financial Group, Inc.	PFG	Life and Health Insurance
+Prologis, Inc.	PLD	Industrial REITs
+Prudential Financial, Inc.	PRU	Life and Health Insurance
+Public Service Enterprise Group Incorporated	PEG	Multi-Utilities
+Public Storage	PSA	Specialized REITs
+PulteGroup, Inc.	PHM	Homebuilding
+PVH Corp.	PVH	Apparel, Accessories and Luxury Goods
+Qorvo, Inc.	QRVO	Semiconductors
+QUALCOMM Incorporated	QCOM	Semiconductors
+Quanta Services, Inc.	PWR	Construction and Engineering
+Quest Diagnostics Incorporated	DGX	Health Care Services
+Ralph Lauren Corporation	RL	Apparel, Accessories and Luxury Goods
+Raymond James Financial, Inc.	RJF	Investment Banking and Brokerage
+Raytheon Technologies Corporation	RTX	Aerospace and Defense
+Realty Income Corporation	O	Retail REITs
+Regency Centers Corporation	REG	Retail REITs
+Regeneron Pharmaceuticals, Inc.	REGN	Biotechnology
+Regions Financial Corporation	RF	Regional Banks
+Republic Services, Inc.	RSG	Environmental and Facilities Services
+ResMed Inc.	RMD	Health Care Equipment
+Robert Half International Inc.	RHI	Human Resource and Employment Services
+Rockwell Automation, Inc.	ROK	Electrical Components and Equipment
+Rollins, Inc.	ROL	Environmental and Facilities Services
+Roper Technologies, Inc.	ROP	Industrial Conglomerates
+Ross Stores, Inc.	ROST	Apparel Retail
+Royal Caribbean Cruises Ltd.	RCL	Hotels, Resorts and Cruise Lines
+S&P Global Inc.	SPGI	Financial Exchanges and Data
+salesforce.com, inc.	CRM	Application Software
+SBA Communications Corporation (REIT)	SBAC	Specialized REITs
+Schlumberger Limited	SLB	Oil and Gas Equipment and Services
+Seagate Technology plc	STX	Technology Hardware, Storage and Peripherals
+Sealed Air Corporation	SEE	Paper Packaging
+Sempra Energy	SRE	Multi-Utilities
+ServiceNow, Inc.	NOW	Systems Software
+Simon Property Group, Inc.	SPG	Retail REITs
+Skyworks Solutions, Inc.	SWKS	Semiconductors
+SL Green Realty Corp.	SLG	Office REITs
+Snap-on Incorporated	SNA	Industrial Machinery
+Southwest Airlines Co.	LUV	Airlines
+Stanley Black & Decker, Inc.	SWK	Industrial Machinery
+Starbucks Corporation	SBUX	Restaurants
+State Street Corporation	STT	Asset Management and Custody Banks
+STERIS plc	STE	Health Care Equipment
+Stryker Corporation	SYK	Health Care Equipment
+SVB Financial Group	SIVB	Regional Banks
+Synchrony Financial	SYF	Consumer Finance
+Synopsys, Inc.	SNPS	Application Software
+Sysco Corporation	SYY	Food Distributors
+T. Rowe Price Group, Inc.	TROW	Asset Management and Custody Banks
+Take-Two Interactive Software, Inc.	TTWO	Interactive Home Entertainment
+Tapestry, Inc.	TPR	Apparel, Accessories and Luxury Goods
+Target Corporation	TGT	General Merchandise Stores
+TE Connectivity Ltd.	TEL	Electronic Manufacturing Services
+TechnipFMC plc	FTI	Oil and Gas Equipment and Services
+Teledyne Technologies Incorporated	TDY	Aerospace and Defense
+Teleflex Incorporated	TFX	Health Care Equipment
+Texas Instruments Incorporated	TXN	Semiconductors
+Textron Inc.	TXT	Aerospace and Defense
+The AES Corporation	AES	Independent Power Producers and Energy Traders
+The Allstate Corporation	ALL	Property and Casualty Insurance
+The Bank of New York Mellon Corporation	BK	Asset Management and Custody Banks
+The Boeing Company	BA	Aerospace and Defense
+The Charles Schwab Corporation	SCHW	Investment Banking and Brokerage
+The Clorox Company	CLX	Household Products
+The Coca-Cola Company	KO	Soft Drinks
+The Cooper Companies, Inc.	COO	Health Care Supplies
+The Est¨¦e Lauder Companies Inc.	EL	Personal Products
+The Gap, Inc.	GPS	Apparel Retail
+The Goldman Sachs Group, Inc.	GS	Investment Banking and Brokerage
+The Hartford Financial Services Group, Inc.	HIG	Multi-line Insurance
+The Hershey Company	HSY	Packaged Foods and Meats
+The Home Depot, Inc.	HD	Home Improvement Retail
+The Interpublic Group of Companies, Inc.	IPG	Advertising
+The J. M. Smucker Company	SJM	Packaged Foods and Meats
+The Kraft Heinz Company	KHC	Packaged Foods and Meats
+The Kroger Co.	KR	Food Retail
+The Mosaic Company	MOS	Fertilizers and Agricultural Chemicals
+The PNC Financial Services Group, Inc.	PNC	Regional Banks
+The Procter & Gamble Company	PG	Household Products
+The Progressive Corporation	PGR	Property and Casualty Insurance
+The Sherwin-Williams Company	SHW	Specialty Chemicals
+The Southern Company	SO	Electric Utilities
+The TJX Companies, Inc.	TJX	Apparel Retail
+The Travelers Companies, Inc.	TRV	Property and Casualty Insurance
+The Walt Disney Company	DIS	Movies and Entertainment
+The Western Union Company	WU	Data Processing and Outsourced Services
+The Williams Companies, Inc.	WMB	Oil and Gas Storage and Transportation
+Thermo Fisher Scientific Inc.	TMO	Life Sciences Tools and Services
+Tiffany & Co.	TIF	Specialty Stores
+T-Mobile US, Inc.	TMUS	Wireless Telecommunication Services
+Tractor Supply Company	TSCO	Specialty Stores
+Trane Technologies plc	TT	Building Products
+TransDigm Group Incorporated	TDG	Aerospace and Defense
+Truist Financial Corporation	TFC	Regional Banks
+Twitter, Inc.	TWTR	Interactive Media and Services
+Tyler Technologies, Inc.	TYL	Application Software
+Tyson Foods, Inc.	TSN	Packaged Foods and Meats
+U.S. Bancorp	USB	Diversified Banks
+UDR, Inc.	UDR	Residential REITs
+Ulta Beauty, Inc.	ULTA	Specialty Stores
+Under Armour, Inc.	UA	Apparel, Accessories and Luxury Goods
+Under Armour, Inc.	UAA	Apparel, Accessories and Luxury Goods
+Union Pacific Corporation	UNP	Railroads
+United Airlines Holdings, Inc.	UAL	Airlines
+United Parcel Service, Inc.	UPS	Air Freight and Logistics
+United Rentals, Inc.	URI	Trading Companies and Distributors
+UnitedHealth Group Incorporated	UNH	Managed Health Care
+Universal Health Services, Inc.	UHS	Health Care Facilities
+Unum Group	UNM	Life and Health Insurance
+V.F. Corporation	VFC	Apparel, Accessories and Luxury Goods
+Valero Energy Corporation	VLO	Oil and Gas Refining and Marketing
+Varian Medical Systems, Inc.	VAR	Health Care Equipment
+Ventas, Inc.	VTR	Health Care REITs
+VeriSign, Inc.	VRSN	Internet Services and Infrastructure
+Verisk Analytics, Inc.	VRSK	Research and Consulting Services
+Verizon Communications Inc.	VZ	Integrated Telecommunication Services
+Vertex Pharmaceuticals Incorporated	VRTX	Biotechnology
+ViacomCBS Inc.	VIAC	Broadcasting
+Visa Inc.	V	Data Processing and Outsourced Services
+Vornado Realty Trust	VNO	Office REITs
+Vulcan Materials Company	VMC	Construction Materials
+W. R. Berkley Corporation	WRB	Property and Casualty Insurance
+W.W. Grainger, Inc.	GWW	Trading Companies and Distributors
+Wabtec Corporation	WAB	Construction Machinery and Heavy Trucks
+Walgreens Boots Alliance, Inc.	WBA	Drug Retail
+Walmart Inc.	WMT	Hypermarkets and Super Centers
+Waste Management, Inc.	WM	Environmental and Facilities Services
+Waters Corporation	WAT	Life Sciences Tools and Services
+WEC Energy Group, Inc.	WEC	Multi-Utilities
+Wells Fargo & Company	WFC	Diversified Banks
+Welltower Inc.	WELL	Health Care REITs
+West Pharmaceutical Services, Inc.	WST	Health Care Supplies
+Western Digital Corporation	WDC	Technology Hardware, Storage and Peripherals
+WestRock Company	WRK	Paper Packaging
+Weyerhaeuser Company	WY	Specialized REITs
+Whirlpool Corporation	WHR	Household Appliances
+Willis Towers Watson Public Limited Company	WLTW	Insurance Brokers
+Wynn Resorts, Limited	WYNN	Casinos and Gaming
+Xcel Energy Inc.	XEL	Electric Utilities
+Xerox Holdings Corporation	XRX	Technology Hardware, Storage and Peripherals
+Xilinx, Inc.	XLNX	Semiconductors
+Xylem Inc.	XYL	Industrial Machinery
+Yum! Brands, Inc.	YUM	Restaurants
+Zebra Technologies Corporation	ZBRA	Electronic Equipment and Instruments
+Zimmer Biomet Holdings, Inc.	ZBH	Health Care Equipment
+Zions Bancorporation, National Association	ZION	Regional Banks
+Zoetis Inc.	ZTS	Pharmaceuticals

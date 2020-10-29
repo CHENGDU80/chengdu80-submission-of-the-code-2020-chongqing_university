@@ -1,0 +1,19 @@
+{
+  "ks_training_path": "models/kd/lstm_model/ks_training",
+  "ks_testing_path":"models/kd/lstm_model/ks_testing",
+  "alpha":0.75,
+  "beta":0.25,
+  "ks_model_path":"models/kd/saved_model/{}/",
+  "init_data_path":"models/kd/data/init_ks.npy",
+  "training_days": 1,
+  "predict_days": 1,
+  "lr": 0.001,
+  "clipnorm": 1,
+  "batch_size": 64,
+  "epoches": 50,
+  "model_path": "models/kd/saved_model/{}/",
+  "ticker_file": "models/kd/data/ticker.txt",
+  "feature_num": 17,
+  "ticker_scalar_path": "models/kd/data/scalar.json",
+  "train_test_rate": 0.7
+}

@@ -1,0 +1,340 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<title>Stock Prediction System-CQUSunrise</title>
+	<!--favicon-->
+	<link rel="icon" href="static/images/cqulog.png" type="image/png" />
+	<!--plugins-->
+	<link href="static/plugins/simplebar/css/simplebar.css" rel="stylesheet" />
+	<link href="static/plugins/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet" />
+	<link href="static/plugins/metismenu/css/metisMenu.min.css" rel="stylesheet" />
+	<!-- loader-->
+	<link href="static/css/pace.min.css" rel="stylesheet" />
+	<script src="static/js/pace.min.js"></script>
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="static/css/bootstrap.min.css" />
+	<!-- Icons CSS -->
+	<link rel="stylesheet" href="static/css/icons.css" />
+	<!-- App CSS -->
+	<link rel="stylesheet" href="static/css/app.css" />
+	<link rel="stylesheet" href="static/css/dark-style.css" />
+</head>
+
+<body>
+	<!-- wrapper -->
+	<div class="wrapper">
+		<!--header-->
+		<header class="top-header">
+			<nav class="navbar navbar-expand">
+				<div class="left-topbar d-flex align-items-center">
+					<a href="javaScript:;" class="toggle-btn">	<i class="bx bx-menu"></i>
+					</a>
+					<div class="logo-white">
+						<img src="static/images/CQUEng.png" class="logo-icon" alt="">
+					</div>
+					<div class="logo-dark">
+						<img src="static/images/CQUEng.png" class="logo-icon" alt="">
+					</div>
+				</div>
+				<!-- <div class="flex-grow-1 search-bar">
+					<div class="input-group">
+						<div class="input-group-prepend search-arrow-back">
+							<button class="btn btn-search-back" type="button"><i class="bx bx-arrow-back"></i>
+							</button>
+						</div>
+						<input type="text" class="form-control" placeholder="search" />
+						<div class="input-group-append">
+							<button class="btn btn-search" type="button"><i class="lni lni-search-alt"></i>
+							</button>
+						</div>
+					</div>
+				</div> -->
+			</nav>
+		</header>
+		<!--page-wrapper-->
+		<div class="page-wrapper">
+			<!--sidebar-wrapper-->
+			<div class="sidebar-wrapper" data-simplebar="true">
+				<div class="sidebar-header">
+					<a href="javaScript:;" class="toggle-btn"> <i class="bx bx-menu"></i>
+					</a>
+					<div class="logo-white">
+						<img src="static/images/logo-white.png" class="logo-icon-2" alt="">
+					</div>
+					<div class="logo-dark">
+						<img src="static/images/logo-dark.png" class="logo-icon-2" alt="">
+					</div>
+				</div>
+				<!--navigation-->
+				<ul class="metismenu" id="menu">
+					<li>
+						<a class="has-arrow" href="javaScript:;">
+							<div class="parent-icon"><i class="bx bx-home-alt"></i>
+							</div>
+							<div class="menu-title">Dashboard</div>
+						</a>
+						<ul class="">
+							<li> <a href="LSTM"><i class="bx bx-right-arrow-alt"></i>LSTM</a>
+							</li>
+							<li> <a href="ARIMA"><i class="bx bx-right-arrow-alt"></i>ARIMA</a>
+							</li>
+							<li> <a href="KnowledgeDistillation"><i class="bx bx-right-arrow-alt"></i>KnowledgeDistillation</a>
+							</li>
+						</ul>
+					</li>
+					<li class="menu-label">Web Apps</li>
+					<li>
+						<a href="ContactList">
+							<div class="parent-icon"><i class="bx bx-group"></i>
+							</div>
+							<div class="menu-title">Contatcs</div>
+						</a>
+					</li>
+					<li>
+						<a href="TimeLine">
+							<div class="parent-icon"> <i class="bx bx-video-recording"></i>
+							</div>
+							<div class="menu-title">Timeline</div>
+						</a>
+					</li>
+				</ul>
+				<!--end navigation-->
+			</div>
+			<!--end sidebar-wrapper-->
+			<!--page-content-wrapper-->
+			<div class="page-content-wrapper">
+				<div class="page-content">
+					<!--breadcrumb-->
+					<div class="page-breadcrumb d-none d-md-flex align-items-center mb-3">
+						<div class="breadcrumb-title pr-3">Timeline</div>
+						<div class="pl-3">
+							<nav aria-label="breadcrumb">
+								<ol class="breadcrumb mb-0 p-0">
+									<li class="breadcrumb-item"><a href="javaScript:;"><i class='bx bx-home-alt'></i></a>
+									</li>
+									<li class="breadcrumb-item active" aria-current="page">Timeline</li>
+								</ol>
+							</nav>
+						</div>
+					</div>
+					<!--end breadcrumb-->
+					<div class="">
+						<div class="">
+							<div class="container py-2">
+								<h2 class="font-weight-light text-center text-muted py-3">Project Processing</h2>
+								<!-- timeline item 1 -->
+								<div class="row no-gutters">
+									<div class="col-sm">
+										<!--spacer-->
+									</div>
+									<!-- timeline item 1 center dot -->
+									<div class="col-sm-1 text-center flex-column d-none d-sm-flex">
+										<div class="row h-50">
+											<div class="col">&nbsp;</div>
+											<div class="col">&nbsp;</div>
+										</div>
+										<h5 class="m-2">
+                                <span class="badge badge-pill bg-light border">&nbsp;</span>
+                            </h5>
+										<div class="row h-50">
+											<div class="col border-right">&nbsp;</div>
+											<div class="col">&nbsp;</div>
+										</div>
+									</div>
+									<!-- timeline item 1 event content -->
+									<div class="col-sm py-2">
+										<div class="card">
+											<div class="card-body">
+												<div class="float-right text-muted small">Oct 26th 2020 14:00 PM</div>
+												<h4 class="card-title text-muted">Day 1 Start</h4>
+												<p class="card-text">Join the CHENGDU80 @MICROSOFT TEAMS</p>
+												<p class="card-text">Complete the Information</p>
+												<p class="card-text">Test  Environment</p>
+												<p class="card-text">Upload the Video of Team Intro </p>
+												<p class="card-text">Brainstorm</p>
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<!--/row-->
+								<!-- timeline item 2 -->
+								<div class="row no-gutters">
+									<div class="col-sm py-2">
+										<div class="card border-success shadow">
+											<div class="card-body">
+												<div class="float-right text-success small">Oct 27th 2020 8:00 AM</div>
+												<h4 class="card-title text-success">Day 2 Sessions</h4>
+												<p class="card-text">System Design and Prototype Development.</p>
+												<button class="btn btn-sm btn-outline-secondary" type="button" data-target="#t22_details" data-toggle="collapse">Show Details ▼</button>
+												<div class="collapse border" id="t22_details">
+													<div class="p-2 text-monospace">
+														<div>08:30 - 09:00 Model Design</div>
+														<div>09:00 - 10:30 Algorithm Design</div>
+														<div>10:30 - 10:45 Data Preprocess</div>
+														<div>10:45 - 12:00 Factor Analysis</div>
+														<div>13:00 - 15:00 UI Desgin</div>
+														<div>15:00 - 18:00 ARIMA Implementation</div>
+														<div>18:00 - 24:00 LSTM Implementation</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-1 text-center flex-column d-none d-sm-flex">
+										<div class="row h-50">
+											<div class="col border-right">&nbsp;</div>
+											<div class="col">&nbsp;</div>
+										</div>
+										<h5 class="m-2">
+                                <span class="badge badge-pill bg-success">&nbsp;</span>
+                            </h5>
+										<div class="row h-50">
+											<div class="col border-right">&nbsp;</div>
+											<div class="col">&nbsp;</div>
+										</div>
+									</div>
+									<div class="col-sm">
+										<!--spacer-->
+									</div>
+								</div>
+								<!--/row-->
+								<!-- timeline item 3 -->
+								<div class="row no-gutters">
+									<div class="col-sm">
+										<!--spacer-->
+									</div>
+									<div class="col-sm-1 text-center flex-column d-none d-sm-flex">
+										<div class="row h-50">
+											<div class="col border-right">&nbsp;</div>
+											<div class="col">&nbsp;</div>
+										</div>
+										<h5 class="m-2">
+                                <span class="badge badge-pill bg-light border">&nbsp;</span>
+                            </h5>
+										<div class="row h-50">
+											<div class="col border-right">&nbsp;</div>
+											<div class="col">&nbsp;</div>
+										</div>
+									</div>
+									<div class="col-sm py-2">
+										<div class="card">
+											<div class="card-body">
+												<div class="float-right text-muted small">Oct 28th 2020 8:00 AM</div>
+												<h4 class="card-title">Day 3 Sessions</h4>
+												<p> Stock predictive model Implementation <br/>
+														Elaborate the model used for predicting stock movements, and the way to judge the effectiveness of the
+													proposed predictive model.</p>
+												<p> Stock relation model Implementation<br/>
+														Elaborate the way to locate the most influential firms for the target firm.</p>
+												<p> The Interpretability of the predictive model <br/>
+														Provide the functions to assist investors to understand predicted results.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!--/row-->
+								<!-- timeline item 4 -->
+								<div class="row no-gutters">
+									<div class="col-sm py-2">
+										<div class="card">
+											<div class="card-body">
+												<div class="float-right text-muted small">Oct 29th 2020 8:00 AM</div>
+												<h4 class="card-title">Day 4 Wrap-up</h4>
+												<p>OPtimization of System Architecture
+													Performance<br/>
+													Reliability<br/>
+													Modifiability<br/>
+													Functionality<br/>
+												</p>
+												<p>Project Submission
+												PPT<br/>
+												Video<br/>
+												Code</br>
+												Document</br>
+												</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-1 text-center flex-column d-none d-sm-flex">
+										<div class="row h-50">
+											<div class="col border-right">&nbsp;</div>
+											<div class="col">&nbsp;</div>
+										</div>
+										<h5 class="m-2">
+                                <span class="badge badge-pill bg-light border">&nbsp;</span>
+                            </h5>
+										<div class="row h-50">
+											<div class="col">&nbsp;</div>
+											<div class="col">&nbsp;</div>
+										</div>
+									</div>
+									<div class="col-sm">
+										<!--spacer-->
+									</div>
+								</div>
+								<!--/row-->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--end page-content-wrapper-->
+		</div>
+		<!--end page-wrapper-->
+		<!--start overlay-->
+		<div class="overlay toggle-btn-mobile"></div>
+		<!--end overlay-->
+		<!--Start Back To Top Button--> <a href="javaScript:;" class="back-to-top"><i class='bx bxs-up-arrow-alt'></i></a>
+		<!--End Back To Top Button-->
+		<!--footer -->
+		<div class="footer">
+			<p class="mb-0">CHENGDU80 @2020 | Developed By : <a href="javaScript:" target="_blank">CQUSunrise Group</a>
+			</p>
+		</div>
+		<!-- end footer -->
+	</div>
+	<!-- end wrapper -->
+
+	<!--start switcher-->
+	   <!-- <div class="switcher-wrapper">
+	       <div class="switcher-btn">
+		       <i class='bx bx-cog bx-spin'></i>
+		   </div>
+		   <div class="switcher-body">
+		      <h5 class="mb-0 text-uppercase">Theme Customizer</h5>
+			  <hr/>
+			  <h6 class="mb-0">Theme Styles</h6>
+			  <hr/>
+			  <div class="custom-control custom-radio">
+				  <input type="radio" id="darkmode" name="customRadio" class="custom-control-input">
+				  <label class="custom-control-label" for="darkmode">Dark Mode</label>
+			  </div>
+			  <hr/>
+			  <div class="custom-control custom-radio">
+			    <input type="radio" id="lightmode" name="customRadio" checked class="custom-control-input">
+			    <label class="custom-control-label" for="lightmode">Light Mode</label>
+			  </div>
+		   </div>
+	   </div> -->
+	 <!--end switcher-->
+
+
+	<!-- JavaScript -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="static/js/jquery.min.js"></script>
+	<script src="static/js/popper.min.js"></script>
+	<script src="static/js/bootstrap.min.js"></script>
+	<!--plugins-->
+	<script src="static/plugins/simplebar/js/simplebar.min.js"></script>
+	<script src="static/plugins/metismenu/js/metisMenu.min.js"></script>
+	<script src="static/plugins/perfect-scrollbar/js/perfect-scrollbar.js"></script>
+	<!-- App JS -->
+	<script src="static/js/app.js"></script>
+</body>
+
+</html>

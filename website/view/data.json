@@ -1,0 +1,8 @@
+[
+    {"ID": "0", "name": "工厂", "size": 13, "parentID": ""
+    },
+    {"ID": "1", "name": "分销站A", "size": 13, "parentID": "0"
+    },
+    {"ID": "2", "name": "分销站B", "size": 13, "parentID": "0"
+    }
+]
